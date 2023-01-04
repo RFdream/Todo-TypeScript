@@ -14,9 +14,9 @@
     "vue-property-decorator": "^8.2.1"
   },
   "devDependencies": {
-    "@vue/cli-plugin-babel": "^3.9.0",
+    "@vue/cli-plugin-babel": "^5.0.8",
     "@vue/cli-plugin-typescript": "^3.9.0",
-    "@vue/cli-service": "^3.9.0",
+    "@vue/cli-service": "^5.0.8",
     "ts-loader": "^6.0.4",
     "tslint": "^5.18.0",
     "tslint-config-standard": "^8.0.1",
